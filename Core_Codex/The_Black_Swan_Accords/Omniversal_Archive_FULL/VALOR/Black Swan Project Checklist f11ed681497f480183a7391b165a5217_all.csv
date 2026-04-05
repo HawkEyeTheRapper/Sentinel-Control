@@ -1,0 +1,12 @@
+﻿Item,Beat map URL,Category,Cause,Decay date,Due,Effect,Notes,Scene ID,Stabilizer,Status,Track,Weight
+Anchor — Seven Nation Army training motif,https://example.com/beatmaps/seven-nation-army.json,Anchor,,,,,Training montage + system boot motif. Create beat grid at 120 BPM and export.,,,To Do,Seven Nation Army — The White Stripes,
+VALOR E01 — Opening sequence beat sheet,,Scene,,,,,Cold open micro‑cameo → A‑story system obstacle → sigil set‑piece → tag ledger entry,S1E1-OPN,,To Do,,
+Ledger — First stabilizer for OPN event,,Ledger,Diana performs stylus ritual,,,Access window opens in subsystem,Link to S1E1-OPN and Anchor once created,,Micro‑cameo: stylus ritual at dawn,To Do,,0.6
+The Unveiling — Dragons Stir at Dagdavorian Hills,,Scene,,,,,Gael enters from beyond the Hills as the Artifact resonance awakens under Great Blue.,UVL-S02-DRAGONS,,To Do,,
+Ledger — Artifact lineage across epochs,,Ledger,Stylus shattered (Calamity event),,,Valor Greatsword → SoulBlade → Dagger → Final Arrowhead,Tie each transformation to a scene and anchor.,,Great Blue custody oath,To Do,,0.9
+Interlude I — The Entrusting (Great Blue secures the Artifact),,Scene,,,,,"Diana descends, entrusts Stylus remnant to Great Blue beneath Dagdavorian/Impassible Hills (Talanvost). Set mythic seed for The Unveiling.",INT1-ENTRUST,,To Do,,
+Finale — The Arrow of Diana (Fractal Return),,Scene,,,,,Single arrowhead launched into the quantum frame to retro-correct timelines and seal Calamity.,ART-OMEGA-ARROW,,To Do,,
+Ledger — Ki•Gnosis + Sierpiński Lattice enablement,,Ledger,Deploy Ki•Gnosis Engines on Armada nodes,,,Silent mobilization across domains; coherence for interdimensional jumps,Sierpiński magnetic lattice in bow as coherence frame.,,Ael’Serenthian Bow fractal tuning,To Do,,0.7
+Anchor — Castle (Halsey) — Reclaiming Command sequence,,Anchor,,,,,Cinematic system-override when Diana casually retakes the Armada. Sync to storyboard beats.,,,To Do,Castle — Halsey,
+Anchor — Paradise (Yaima) — First Light opening,,Anchor,,,,,Atmospheric opening for First Light within VALOR/Unveiling bridge.,,,To Do,Paradise — Yaima,
+Nightfall — Dagger of Valor passes to Brian,,Scene,,,,,SoulBlade remnant worn down to dagger. Human resistance arc intersects Artifact lineage.,NF-S01-DAGGER,,To Do,,

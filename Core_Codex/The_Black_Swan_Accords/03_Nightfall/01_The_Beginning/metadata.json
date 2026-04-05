@@ -1,0 +1,23 @@
+{
+  "series_id": "03_Nightfall",
+  "series_title": "Nightfall",
+  "book_id": "01_The_Beginning",
+  "book_title": "The Beginning",
+  "sequence": 1,
+  "tags": [
+    "setup",
+    "quiet war",
+    "shadow operations",
+    "convergence of arcs",
+    "prelude to endgame"
+  ],
+  "primary_characters": [
+    "Brian_McCord",
+    "Harker",
+    "Fenningway"
+  ],
+  "links": {
+    "valor": "01_VALOR/03_How_We_Changed",
+    "unveiling": "02_The_Unveiling/01_First_Light"
+  }
+}

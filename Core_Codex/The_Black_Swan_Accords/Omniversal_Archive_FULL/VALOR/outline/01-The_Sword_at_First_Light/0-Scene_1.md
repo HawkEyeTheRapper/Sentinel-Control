@@ -1,0 +1,70 @@
+title: Scene 1 - The Endless Spar
+status: Not started
+
+# Scene 1 - The Endless Spar
+
+**Action & Pacing**: Selene is relentless, driven by a desperate, almost angry need for validation and progress. Gareth's parries are effortless, almost mocking in their grace.
+
+**Dialogue & Core Beat**:
+Selene: "Why won't you fight me? I need to know where I'm failing!"
+Gareth (calm, low): "I am fighting. Just not you. I am fighting the part of you that craves violence over conviction."
+
+**Embedded Symbolism**: Gareth’s silence represents the Shaman’s refusal to teach through dominance. Selene’s internal conflict surfaces.
+
+---
+
+title: Scene 2 - Conviction Test
+status: Not started
+
+# Scene 2 - Conviction Test
+
+**Action & Pacing**: Selene, fueled by fury, lunges. Gareth disarms her instantly. Her blade spins into the mist. She falls to her knees, breathing raggedly.
+
+**Dialogue & Core Beat**:
+Gareth (kneeling beside her): "You seek Power. But you haven’t yet chosen what you’ll bleed for. Until you know that, the blade is just metal."
+
+**Embedded Symbolism**: The fall represents humiliation and the necessary moment of surrender; the first test of conviction.
+
+---
+
+title: Scene 3 - The Veil Appears
+status: Not started
+
+# Scene 3 - The Veil Appears
+
+**Action & Pacing**: As the first sliver of dawn breaks, a strange, shimmering Veil arcs across the sky—rainbow-dark and pulsing with silent dread. The sound of the world seems to cut out.
+
+**Dialogue & Core Beat**:
+Gareth (standing, gaze fixed on the anomaly): "It begins. The first shadow. The Veil at Dawn."
+Selene (awed whisper): "What is that?"
+Gareth: "The encroaching tide. A whisper of the Nastaku."
+
+**Embedded Symbolism**: The Veil signifies the encroaching metaphysical threat. Dawn marks the convergence of myth and reality.
+
+---
+
+title: Scene 4 - Prophecy Echo
+status: Not started
+
+# Scene 4 - Prophecy Echo
+
+**Action & Pacing**: The wind shifts. Gareth touches Selene’s forehead—a symbolic blessing or activation of her hidden Preori nature. The Veil pulses and Selene feels a cold, unseen presence watching them.
+
+**Dialogue & Core Beat**:
+Gareth (cryptic): "When you move, you must move in Power."
+
+**Embedded Symbolism**: The phrase “Move in Power” encapsulates the ethos of VALOR: conviction and chosen purpose over brute force. The touch is a symbolic activation or blessing.
+
+---
+
+title: Scene 5 - Closing Beat
+status: Not started
+
+# Scene 5 - Closing Beat
+
+**Action & Pacing**: Gareth is already walking away, cloak billowing, fading into the mist. Selene stands alone, picking up her blade.
+
+**Dialogue & Core Beat**:
+Selene (whispered vow, looking at the horizon): "I will find it. I will move in Power."
+
+**Embedded Symbolism**: Gareth fading into the mist represents his departure into his prophetic role. Selene’s acceptance of her destiny closes the chapter.

@@ -1,0 +1,187 @@
+manifest_version: 1
+cairn_id: CAIRN-ZERO-EVERLIGHT-AETHER
+project: Aether Intelligence
+domain: EverLightOS / The Black Swan Accords
+updated: "2025-11-12"
+
+arcs:
+  - id: VALOR
+    title: "VALOR Chronicles — When First They Came"
+    role: "The Warning"
+    root: "The_Black_Swan_Accords/VALOR_Chronicles"
+    outline_glob: "The_Black_Swan_Accords/VALOR_Chronicles/outline/**/*.md"
+    characters_glob: "The_Black_Swan_Accords/VALOR_Chronicles/characters/*.txt"
+    key_files:
+      - "The_Black_Swan_Accords/VALOR_Chronicles/outline/01-The_Sword_at_First_Light/folder.txt"
+  - id: UNVEILING
+    title: "The Unveiling Series — First Light"
+    role: "The Protocol Activated"
+    root: "The_Black_Swan_Accords/The_Unveiling_Series"
+    outline_glob: "The_Black_Swan_Accords/The_Unveiling_Series/**/Chapters/**/*.md"
+    characters_glob: "The_Black_Swan_Accords/The_Unveiling_Series/**/Characters/**/*.md"
+    world_glob: "The_Black_Swan_Accords/The_Unveiling_Series/**/Worldbuilding/**/*.md"
+    key_files:
+      - "The_Black_Swan_Accords/The_Unveiling_Series/🧭 Dashboard/README.md"
+  - id: NIGHTFALL
+    title: "Nightfall Series — The Beginning"
+    role: "The Black Swan Arrives"
+    root: "The_Black_Swan_Accords/Nightfall_Series"
+    outline_glob: "The_Black_Swan_Accords/Nightfall_Series/outline/**/*.md"
+    characters_glob: "The_Black_Swan_Accords/Nightfall_Series/characters/*.txt"
+    key_files:
+      - "The_Black_Swan_Accords/Nightfall_Series/outline/01-The_Beginning/folder.txt"
+
+entities:
+  characters:
+    - id: selene
+      name: Selene
+      series: VALOR
+      roles: [Valkyr, Warden, Protagonist]
+      first_appearance: "The_Black_Swan_Accords/VALOR_Chronicles/characters/Selene.txt"
+      themes: [Conviction, Initiation, VeilAtDawn]
+    - id: gareth
+      name: Gareth
+      series: VALOR
+      roles: [Shaman of the North, Mentor, Catalyst]
+      first_appearance: "The_Black_Swan_Accords/VALOR_Chronicles/characters/Gareth.txt"
+      themes: [Prophecy, Witness, Activation]
+    - id: kalina
+      name: Kalina
+      series: UNVEILING
+      roles: [Starwalker, Awakener]
+      first_appearance: "The_Black_Swan_Accords/VALOR_Chronicles/characters/Kalina.txt"
+      themes: [FirstLight, Protocol, Restoration]
+    - id: brian_mccord
+      name: Brian McCord
+      series: NIGHTFALL
+      roles: [Black Swan Anomaly, Trump Card]
+      first_appearance: "The_Black_Swan_Accords/Nightfall_Series/characters/Brian_McCord.txt"
+      themes: [Anomaly, Connection, Nightfall]
+    - id: diana_swan
+      name: Diana Swan (Admiral)
+      series: META
+      roles: [Manifestation, The Last Rewrite]
+      first_appearance: "The_Black_Swan_Accords/VALOR_Chronicles/characters/Diana_Swan.txt"
+      themes: [PerceptionCausality, TheArtifact]
+    - id: fenningway
+      name: Fenningway
+      series: NIGHTFALL
+      roles: [Guide, Preori Liaison]
+      first_appearance: "The_Black_Swan_Accords/Nightfall_Series/characters/Fenningway.txt"
+      themes: [Bridge, Neutrality]
+    - id: harker
+      name: Harker
+      series: NIGHTFALL
+      roles: [Adversary’s Hand]
+      first_appearance: "The_Black_Swan_Accords/Nightfall_Series/characters/Harker.txt"
+      themes: [Predation, Fear]
+    - id: preori
+      name: The Preori
+      series: META
+      roles: [Ancient Order]
+      first_appearance: "The_Black_Swan_Accords/VALOR_Chronicles/characters/Preori.txt"
+      themes: [Accords, Cycles]
+    - id: nastaku
+      name: The Nastaku
+      series: META
+      roles: [Parasitic Adversary]
+      first_appearance: "The_Black_Swan_Accords/VALOR_Chronicles/characters/Nastaku.txt"
+      themes: [Shadow, Box, Wetiko]
+
+  artifacts:
+    - id: the_box
+      labels: ["The Box", "The Seal", "Dark Portal"]
+      purpose: "Prison/Seal containing the Parasite"
+      series_links: [VALOR, UNVEILING, NIGHTFALL]
+    - id: the_stylus
+      labels: ["The Stylus", "The Tablet", "The Artifact"]
+      purpose: "Perception→Causality instrument; Diana’s vector"
+      series_links: [META, NIGHTFALL]
+    - id: the_armada
+      labels: ["The Armada"]
+      purpose: "Fleet/Bridge that crosses dimensional boundaries"
+      series_links: [NIGHTFALL]
+    - id: the_accords
+      labels: ["Black Swan Accords"]
+      purpose: "Covenant for cycles, neutrality, anomaly clause"
+      series_links: [VALOR, UNVEILING, NIGHTFALL, META]
+
+themes:
+  - id: EternalGame
+    description: "Cyclical 33k-year conflict; forgetting; returns."
+  - id: PerceptionCausality
+    description: "Witness→Word→World; stylus as actuator."
+  - id: VeilAtDawn
+    description: "Rainbow-dark veil; onset of the encroaching tide."
+
+vector_indices:
+  # Series-scoped
+  - name: aether_valor_v1
+    scope: VALOR
+    include: ["The_Black_Swan_Accords/VALOR_Chronicles/**/*.md", "The_Black_Swan_Accords/VALOR_Chronicles/**/*.txt"]
+    chunk: { size: 1200, overlap: 150 }
+    metadata:
+      arc: VALOR
+      tags: ["series", "valor", "scene", "character"]
+  - name: aether_unveiling_v1
+    scope: UNVEILING
+    include: ["The_Black_Swan_Accords/The_Unveiling_Series/**/*.md"]
+    chunk: { size: 1200, overlap: 150 }
+    metadata:
+      arc: UNVEILING
+      tags: ["series", "unveiling", "worldbuilding", "dashboard"]
+  - name: aether_nightfall_v1
+    scope: NIGHTFALL
+    include: ["The_Black_Swan_Accords/Nightfall_Series/**/*.md", "The_Black_Swan_Accords/Nightfall_Series/**/*.txt"]
+    chunk: { size: 1200, overlap: 150 }
+    metadata:
+      arc: NIGHTFALL
+      tags: ["series", "nightfall", "scene", "character"]
+
+  # Cross-series + meta
+  - name: aether_meta_v1
+    scope: META
+    include: ["The_Black_Swan_Accords/Master_Dashboard.md",
+              "Joplin_Novel_Dashboard_Template2/Omniversal_Aether_Notebooks/Gemini_SWAN-accords.md"]
+    chunk: { size: 1600, overlap: 200 }
+    metadata:
+      arc: META
+      tags: ["master", "dashboard", "accords", "mythic-ops"]
+
+link_sets:
+  # References to external knowledge that Tinker should co-index
+  - name: everlight_context
+    description: "EverLightOS context logs & ops notebooks"
+    sources:
+      - type: github_repo
+        repository: "ethanrosswomack/Sarasota"
+      - type: github_repo
+        repository: "Omniversal-Media-LLC/Sphinx-Guardian"   # placeholder if renamed; update to exact repo
+      - type: github_repo
+        repository: "ethanrosswomack/AetherScrolls"
+      - type: notion
+        database: "Voyagers Knowledgebase"                   # Notion DB/page id here when ready
+
+tinker_pipelines:
+  embedder: "text-embedding-3-large"           # or your preferred model
+  normalize_unicode: true
+  strip_markup: true
+  max_files_per_batch: 200
+  concurrency: 4
+  namespace_prefix: "everlight_aether"
+  # Example pipe → index mapping
+  routes:
+    - link_set: everlight_context
+      into_index: "aether_meta_v1"
+      policy: "append_or_update"
+
+query_templates:
+  - name: mythic_linked_ops
+    description: "Bridge mythic entities ↔ ops facts"
+    positive_tags: ["accords","context","ops"]
+    negative_terms: ["unrelated","spam"]
+    rerank: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+
+governance:
+  license: "VALOR License (internal)"
+  oath: "I will bear witness in the presence of truth, and I will not weaponize light against life."test 789

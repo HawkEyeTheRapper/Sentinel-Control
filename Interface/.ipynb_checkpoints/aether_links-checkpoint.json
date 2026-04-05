@@ -1,0 +1,15 @@
+{
+  "everlight_context": {
+    "github": [
+      {"repo": "ethanrosswomack/Sarasota", "purpose": "Foundational logs / legal & ops context"},
+      {"repo": "Omniversal-Media-LLC/Sphinx-Guardian", "purpose": "Guardian AI + Sentinel integration (rename if different)"},
+      {"repo": "ethanrosswomack/AetherScrolls", "purpose": "Lore–ops crossnotes / scrolls"}
+    ],
+    "notion": [
+      {"database": "Voyagers Knowledgebase", "purpose": "Core mythic research + source notes (insert Notion DB ID)"}
+    ],
+    "google_drive": [
+      {"path": "EverLightOS/Context Logs", "purpose": "Daily context exports (add folder ID when connected)"}
+    ]
+  }
+}

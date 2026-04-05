@@ -1,0 +1,71 @@
+Written: 62
+Missing lyrics: 0
+Missing commentary: 28
+No title mapping: 1
+Duplicate SKU titles: 1
+Everlight/CSV title mismatches: 27
+
+Missing commentary:
+- HAWK-BAP-03: Legion
+- HAWK-FD-01: Incantations
+- HAWK-FD-02: Mind Kontrol
+- HAWK-FD-03: Psyops
+- HAWK-FD-04: The Game
+- HAWK-FD-05: The Devil's In The Details
+- HAWK-FD-06: Never Heard Of Me
+- HAWK-FD-07: Relentless
+- HAWK-FD-08: Synthesis
+- HAWK-FD-09: Spiteful Poetry
+- HAWK-FD-10: Krystal Klear
+- HAWK-FD-11: Invokation
+- HAWK-FD-12: Shadow Is Rising
+- HAWK-FD-13: Psychological Warfare
+- HAWK-FD-14: Down The Rabbit Hole
+- HAWK-SB-01: Fuck Society
+- HAWK-SB-02: Monumental
+- HAWK-SB-03: Trafficked
+- HAWK-SB-04: Hocus Pocus
+- HAWK-SB-05: K T
+- HAWK-SB-06: Delta Squad
+- HAWK-SB-07: Scripture
+- HAWK-SB-08: Menace To Society
+- HAWK-SB-09: Semi Automatic
+- HAWK-SB-10: Reverse This Curse
+- HAWK-SB-11: Lifted
+- HAWK-SB-12: Haunted
+- HAWK-SB-13: Implants
+
+No title mapping (SKU not in HawkEye_Music.csv or everlight):
+- HAWK-FD-15
+
+Duplicate SKU titles in HawkEye_Music.csv:
+- HAWK-FD-03: ['Psyops', 'Will You Listen']
+
+Everlight vs CSV title mismatch:
+- HAWK-BAP-01: everlight='Warning Shots' csv=['Domestic Terrorist']
+- HAWK-BAP-02: everlight='William Cooper' csv=['When Shit Gets Real']
+- HAWK-BAP-04: everlight='Whistleblower' csv=['Swordfish']
+- HAWK-BAP-05: everlight='Superstitions' csv=['Mic Check']
+- HAWK-BAP-06: everlight='Scripture' csv=['Shakur']
+- HAWK-BAP-07: everlight='Menace To Society' csv=['Last One Left']
+- HAWK-BAP-08: everlight='Semi-Automatic' csv=['Full Disclosure']
+- HAWK-BAP-09: everlight='Reverse This Curse' csv=['Abreactions']
+- HAWK-BAP-10: everlight='Kt' csv=['Soft Disclosure']
+- HAWK-BAP-11: everlight='The Story Celebrated Throughout Time' csv=['Eyes Wide Open']
+- HAWK-M-01: everlight='Soft Disclosure' csv=['Artificial Intelligence']
+- HAWK-M-02: everlight='Abreactions' csv=['When My Elites Surround']
+- HAWK-M-03: everlight='Eyes Wide Open' csv=['Reincarnated 2 Resist']
+- HAWK-M-04: everlight='Delta Squad' csv=['Fema']
+- HAWK-M-05: everlight='Implants' csv=['Antidote']
+- HAWK-M-06: everlight='Illuminati' csv=['Avalanche']
+- HAWK-M-07: everlight='Fema' csv=['Stay Real']
+- HAWK-M-08: everlight='The Antidote' csv=['Illuminati']
+- HAWK-M-09: everlight='Avalanche' csv=['Syntax']
+- HAWK-M-10: everlight='Artificial Intelligence' csv=['Story Celebrated Throughout Time']
+- HAWK-M-11: everlight='Legion' csv=['Ashes']
+- HAWK-M-12: everlight='When My Elites Surround' csv=['Superstitions']
+- HAWK-M-13: everlight='Reincarnated 2 Resist' csv=['Behold A Pale Horse']
+- HAWK-ME-01: everlight='Malicious' csv=['Kamikaze']
+- HAWK-ME-02: everlight='Gang Shit' csv=['Whistle Blower']
+- HAWK-ME-03: everlight='The Motherfucking Problem' csv=['Story Of Our Former Glory']
+- HAWK-ME-04: everlight='Im Him' csv=['Warning Shots']

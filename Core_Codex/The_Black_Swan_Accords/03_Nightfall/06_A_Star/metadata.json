@@ -1,0 +1,22 @@
+{
+  "series_id": "03_Nightfall",
+  "series_title": "Nightfall",
+  "book_id": "06_A_Star",
+  "book_title": "A Star",
+  "sequence": 6,
+  "tags": [
+    "celestial memory",
+    "heritage of the sun",
+    "Preori origins",
+    "Divine spark",
+    "rising power"
+  ],
+  "primary_characters": [
+    "Alexia",
+    "Halana"
+  ],
+  "links": {
+    "valor": "01_VALOR/01_When_First_They_Came",
+    "unveiling": "02_The_Unveiling/01_First_Light"
+  }
+}

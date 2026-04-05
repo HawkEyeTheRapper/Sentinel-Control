@@ -1,0 +1,22 @@
+{
+  "series_id": "02_The_Unveiling",
+  "series_title": "The Unveiling",
+  "book_id": "12_Emerging_From_Darkness",
+  "book_title": "Emerging From Darkness",
+  "sequence": 12,
+  "tags": [
+    "Morgana arc",
+    "Gardener archetype",
+    "regrowth",
+    "post-curse healing",
+    "light returning to the soil"
+  ],
+  "primary_characters": [
+    "Morgana",
+    "Halana"
+  ],
+  "links": {
+    "valor": null,
+    "nightfall": null
+  }
+}

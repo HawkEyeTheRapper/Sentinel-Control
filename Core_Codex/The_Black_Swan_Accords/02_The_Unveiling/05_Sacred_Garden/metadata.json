@@ -1,0 +1,22 @@
+{
+  "series_id": "02_The_Unveiling",
+  "series_title": "The Unveiling",
+  "book_id": "05_Sacred_Garden",
+  "book_title": "Sacred Garden",
+  "sequence": 5,
+  "tags": [
+    "Morgana arc",
+    "Gardener archetype seed",
+    "restoration",
+    "living wards",
+    "sanctuary spaces"
+  ],
+  "primary_characters": [
+    "Morgana",
+    "Halana"
+  ],
+  "links": {
+    "valor": "01_VALOR/02_What_It_Cost",
+    "nightfall": null
+  }
+}

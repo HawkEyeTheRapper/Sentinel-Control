@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://mcp.everlightos.com/sitemap.xml

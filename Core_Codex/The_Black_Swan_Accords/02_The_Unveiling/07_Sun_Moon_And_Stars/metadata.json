@@ -1,0 +1,22 @@
+{
+  "series_id": "02_The_Unveiling",
+  "series_title": "The Unveiling",
+  "book_id": "07_Sun_Moon_And_Stars",
+  "book_title": "Sun, Moon, And Stars",
+  "sequence": 7,
+  "tags": [
+    "Gael arc",
+    "Ael'Serenthian lineage",
+    "VALOR bloodline",
+    "cosmic alignment",
+    "seventh-cycle hinge"
+  ],
+  "primary_characters": [
+    "Gael",
+    "Halana"
+  ],
+  "links": {
+    "valor": "01_VALOR/01_When_First_They_Came",
+    "nightfall": null
+  }
+}

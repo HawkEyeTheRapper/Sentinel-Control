@@ -1,0 +1,23 @@
+{
+  "series_id": "01_VALOR",
+  "series_title": "VALOR",
+  "book_id": "01_When_First_They_Came",
+  "book_title": "When First They Came",
+  "sequence": 1,
+  "tags": [
+    "invasion",
+    "occupation",
+    "first resistance",
+    "loss of guardians",
+    "beginning of the long war"
+  ],
+  "primary_characters": [
+    "Gareth",
+    "Selene",
+    "Diana_Swan"
+  ],
+  "links": {
+    "unveiling": "02_The_Unveiling/01_First_Light",
+    "nightfall": null
+  }
+}

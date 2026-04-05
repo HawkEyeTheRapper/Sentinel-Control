@@ -1,0 +1,23 @@
+name = "everlight-sentinel-mcp"
+main = "src/index.ts"
+compatibility_date = "2025-12-10"
+account_id = "74b94b7ffc15701b77e53f81bea03813"
+workers_dev = false
+
+routes = [
+  { pattern = "api.aetheranalysis.com/mcp/*", zone_id = "2356c6de416d3f31f3be5205da129979" },
+  { pattern = "api.aetheranalysis.com/mcp-json*", zone_id = "2356c6de416d3f31f3be5205da129979" },
+  { pattern = "api.aetheranalysis.com/mcp/json*", zone_id = "2356c6de416d3f31f3be5205da129979" },
+  { pattern = "mcp.everlightos.com/*", zone_id = "d9507c3525f2141c3dae854ee0f195d3" }
+]
+
+r2_buckets = [
+  { binding = "LOG_BUCKET", bucket_name = "everlight-mcp-logs" }
+]
+
+d1_databases = [
+  { binding = "LOGS_DB", database_name = "everlight_sentinel", database_id = "d85b5b91-3f95-4836-905d-bc683aef7c38" }
+]
+
+[vars]
+LOG_PREFIX = "logs/"

@@ -1,0 +1,53 @@
+;;
+;; Domain:     everlightos.com.
+;; Exported:   2025-12-16 20:39:12
+;;
+;; This file is intended for use for informational and archival
+;; purposes ONLY and MUST be edited before use on a production
+;; DNS server.  In particular, you must:
+;;   -- update the SOA record with the correct authoritative name server
+;;   -- update the SOA record with the contact e-mail address information
+;;   -- update the NS record(s) with the authoritative name servers for this domain.
+;;
+;; For further information, please consult the BIND documentation
+;; located on the following website:
+;;
+;; http://www.isc.org/
+;;
+;; And RFC 1035:
+;;
+;; http://www.ietf.org/rfc/rfc1035.txt
+;;
+;; Please note that we do NOT offer technical support for any use
+;; of this zone data, the BIND name server, or any other third-party
+;; DNS software.
+;;
+;; Use at your own risk.
+;; SOA Record
+everlightos.com	3600	IN	SOA	devin.ns.cloudflare.com. dns.cloudflare.com. 2051758415 10000 2400 604800 3600
+
+;; NS Records
+everlightos.com.	86400	IN	NS	devin.ns.cloudflare.com.
+everlightos.com.	86400	IN	NS	ziggy.ns.cloudflare.com.
+
+;; A Records
+mail.everlightos.com.	120	IN	A	69.59.91.198 ; cf_tags=cf-proxied:false
+
+;; CNAME Records
+ai.everlightos.com.	1	IN	CNAME	public.r2.dev. ; cf_tags=cf-proxied:true
+atlassian-bounces.everlightos.com.	3600	IN	CNAME	bounces.mail-us.atlassian.net. ; cf_tags=cf-proxied:false
+atlassian-e38d66._domainkey.everlightos.com.	3600	IN	CNAME	atlassian-e38d66.dkim.atlassian.net. ; cf_tags=cf-proxied:false
+atlassian-e46f08._domainkey.everlightos.com.	3600	IN	CNAME	atlassian-e46f08.dkim.atlassian.net. ; cf_tags=cf-proxied:false
+autodiscover.everlightos.com.	120	IN	CNAME	mail.everlightos.com. ; cf_tags=cf-proxied:false
+context.everlightos.com.	1	IN	CNAME	mcp.everlightos.com. ; cf_tags=cf-proxied:true
+everlightos.com.	1	IN	CNAME	everlightos-sentinelsystems.pages.dev. ; cf_tags=cf-proxied:true
+mcp.everlightos.com.	1	IN	CNAME	everlight-ai.pages.dev. ; cf_tags=cf-proxied:true
+www.everlightos.com.	1	IN	CNAME	everlightos.com. ; cf_tags=cf-proxied:true
+
+;; MX Records
+everlightos.com.	120	IN	MX	10 mail.everlightos.com.
+
+;; TXT Records
+_dmarc.everlightos.com.	120	IN	TXT	"v=DMARC1; p=quarantine; rua=mailto:78be0a74c7bf485a901a689e634646e5@dmarc-reports.cloudflare.net,mailto:postmaster@everlightos.com; ruf=mailto:postmaster@everlightos.com; fo=1; pct=100"
+everlightos.com.	300	IN	TXT	"atlassian-sending-domain-verification=0c97fe6a-f7a9-435a-845f-57683c29b22b"
+mail._domainkey.everlightos.com.	120	IN	TXT	"v=DKIM1; h=sha256; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj0oyeRIGjXI+kbxfC7mdPFMWQVTeGYoaPGw6tAkNsOBlNUTB9HPyfFWbYuvGR/Q+Cnskh9kXKrlBJiQwfOYlksy/D5nMLp21ZLxOgNB6M8XvY1juloQhcPiwMlrXjKyUT1Hvx1jKCUyk57Wd0637pRL2yJC3BCQ4ub8udD2nLuxEqe7ax+JdcEQ" "pvhVtHsaMLxKPw1t6LRGAmx25fkSbF65TsAQnS3VOHJ+0+8tBsVfDdPX+1RJFlGTlfBufqvt/QGmkMvKFBOVp/+RaAB0wGo2ekVsXxnLWKJnPi1jIP3O1Twth0MVYKgXQvtDsplRcuIVLFENs7vFbMVHko9OZNwIDAQAB"

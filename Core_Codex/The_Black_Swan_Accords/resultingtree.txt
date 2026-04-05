@@ -1,0 +1,251 @@
+.
+├── 00_Root_Notebook
+│   ├── Black_Swan_Accords_Notebook.ipynb
+│   ├── Gemini_SWAN-accords.md
+│   ├── Gemini_SWAN-accords.pdf
+│   ├── Master_Dashboard.md
+│   ├── The Black Swan Accords.pdf
+│   ├── When First They Came - Comprehensive Outline.docx
+│   └── characters
+│       └── Diana_Swan.txt
+├── 01_VALOR
+│   ├── 00_Series_Master
+│   │   ├── characters
+│   │   │   ├── Gareth.txt
+│   │   │   └── Selene.txt
+│   │   └── outline
+│   │       └── 01-The_Sword_at_First_Light
+│   │           ├── 0-Scene_1.md
+│   │           ├── 1-Scene_2.md
+│   │           ├── 2-Scene_3.md
+│   │           ├── 3-Scene_4.md
+│   │           ├── 4-Scene_5.md
+│   │           └── folder.txt
+│   ├── 01_When_First_They_Came
+│   │   ├── 🌍 Worldbuilding
+│   │   │   ├── GreatBlue Dragons.md
+│   │   │   └── The Five Spheres.md
+│   │   ├── 👤 Characters
+│   │   │   ├── Halana.md
+│   │   │   └── Zahara Marshall.md
+│   │   ├── 📅 Writing Log
+│   │   │   └── April 2025.md
+│   │   ├── 📜 Chapters
+│   │   │   └── Chapter 1 - Zahara's Awakening.md
+│   │   ├── 🧩 Plot & Arcs
+│   │   │   └── Overall Arc.md
+│   │   └── 🧭 Dashboard
+│   │       └── Dashboard.md
+│   ├── 02_What_It_Cost
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   └── 03_How_We_Changed
+│       ├── 🌍 Worldbuilding
+│       ├── 👤 Characters
+│       ├── 📅 Writing Log
+│       ├── 📜 Chapters
+│       ├── 🧩 Plot & Arcs
+│       └── 🧭 Dashboard
+├── 02_The_Unveiling
+│   ├── 00_Series_Master
+│   │   ├── characters
+│   │   │   └── Kalina.txt
+│   │   └── outline
+│   ├── 01_First_Light
+│   │   ├── 🌍 Worldbuilding
+│   │   │   ├── GreatBlue Dragons.md
+│   │   │   └── The Five Spheres.md
+│   │   ├── 👤 Characters
+│   │   │   ├── Halana.md
+│   │   │   └── Zahara Marshall.md
+│   │   ├── 📅 Writing Log
+│   │   │   └── April 2025.md
+│   │   ├── 📜 Chapters
+│   │   │   └── Chapter 1 - Zahara's Awakening.md
+│   │   ├── 🧩 Plot & Arcs
+│   │   │   └── Overall Arc.md
+│   │   └── 🧭 Dashboard
+│   │       └── Dashboard.md
+│   ├── 02_Forgotten_Knowledge
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 03_Constructing_The_Box
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 04_A_Time_For_Healing
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 05_Sacred_Garden
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 06_If_Any_Hath_An_Ear
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 07_Sun_Moon_And_Stars
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 08_Ending_The_War
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 09_Wisdom_Cries
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 10_Engineering_Eternity
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 11_Reversing_The_Curse
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 12_Emerging_From_Darkness
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 13_The_SunSpeaker
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 🌍 Worldbuilding
+│   │   ├── GreatBlue Dragons.md
+│   │   └── The Five Spheres.md
+│   ├── 📅 Writing Log
+│   │   └── April 2025.md
+│   ├── 📜 Chapters
+│   │   └── Chapter 1 - Zahara's Awakening.md
+│   ├── 🧩 Plot 
+│   │   ├── Halana.md
+│   │   └── Zahara Marshall.md
+│   ├── 🧩 Plot & Arcs
+│   │   └── Overall Arc.md
+│   └── 🧭 Dashboard
+│       └── Dashboard.md
+├── 03_Nightfall
+│   ├── 00_Series_Master
+│   │   ├── characters
+│   │   │   ├── Brian_McCord.txt
+│   │   │   ├── Fenningway.txt
+│   │   │   ├── Harker.txt
+│   │   │   ├── Nastaku.txt
+│   │   │   └── Preori.txt
+│   │   └── outline
+│   │       └── 01-The_Beginning
+│   │           ├── 0-Scene_1.md
+│   │           └── folder.txt
+│   ├── 01_The_Beginning
+│   │   ├── 🌍 Worldbuilding
+│   │   │   ├── GreatBlue Dragons.md
+│   │   │   └── The Five Spheres.md
+│   │   ├── 👤 Characters
+│   │   │   ├── Halana.md
+│   │   │   └── Zahara Marshall.md
+│   │   ├── 📅 Writing Log
+│   │   │   └── April 2025.md
+│   │   ├── 📜 Chapters
+│   │   │   └── Chapter 1 - Zahara's Awakening.md
+│   │   ├── 🧩 Plot & Arcs
+│   │   │   └── Overall Arc.md
+│   │   └── 🧭 Dashboard
+│   │       └── Dashboard.md
+│   ├── 02_The_Game
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 03_The_Drifter
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 04_The_Key
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 05_The_Woman
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 06_A_Star
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   ├── 07_A_Tree
+│   │   ├── 🌍 Worldbuilding
+│   │   ├── 👤 Characters
+│   │   ├── 📅 Writing Log
+│   │   ├── 📜 Chapters
+│   │   ├── 🧩 Plot & Arcs
+│   │   └── 🧭 Dashboard
+│   └── 08_Dawn
+│       ├── 🌍 Worldbuilding
+│       ├── 👤 Characters
+│       ├── 📅 Writing Log
+│       ├── 📜 Chapters
+│       ├── 🧩 Plot & Arcs
+│       └── 🧭 Dashboard
+├── FormingTheAccords.ipynb
+├── newtree.txt
+└── resultingtree.txt
+
+191 directories, 58 files

@@ -1,0 +1,4 @@
+0 Not started
+1 Draft
+2 Reviewed
+3 Completed

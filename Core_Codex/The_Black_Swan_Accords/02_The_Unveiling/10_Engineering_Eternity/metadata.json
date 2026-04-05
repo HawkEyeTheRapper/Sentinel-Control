@@ -1,0 +1,22 @@
+{
+  "series_id": "02_The_Unveiling",
+  "series_title": "The Unveiling",
+  "book_id": "10_Engineering_Eternity",
+  "book_title": "Engineering Eternity",
+  "sequence": 10,
+  "tags": [
+    "Lathan arc",
+    "Builder archetype",
+    "infrastructure of forever",
+    "temporal engineering",
+    "designing for cycles"
+  ],
+  "primary_characters": [
+    "Lathan",
+    "Halana"
+  ],
+  "links": {
+    "valor": null,
+    "nightfall": null
+  }
+}

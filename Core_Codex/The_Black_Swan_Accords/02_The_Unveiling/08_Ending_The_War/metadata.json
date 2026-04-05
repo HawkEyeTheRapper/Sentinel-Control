@@ -1,0 +1,22 @@
+{
+  "series_id": "02_The_Unveiling",
+  "series_title": "The Unveiling",
+  "book_id": "08_Ending_The_War",
+  "book_title": "Ending The War",
+  "sequence": 8,
+  "tags": [
+    "Kalina arc",
+    "Warlord aspect",
+    "final campaign",
+    "cycles of conflict",
+    "terms of peace"
+  ],
+  "primary_characters": [
+    "Kalina",
+    "Halana"
+  ],
+  "links": {
+    "valor": "01_VALOR/03_How_We_Changed",
+    "nightfall": null
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plots version="1">
+  <plot id="1" title="VALOR: When First They Came">
+    <scenes>
+      <scene file="outline/01-The_Sword_at_First_Light/0-Scene_1.md" />
+      <scene file="outline/01-The_Sword_at_First_Light/1-Scene_2.md" />
+      <scene file="outline/01-The_Sword_at_First_Light/2-Scene_3.md" />
+      <scene file="outline/01-The_Sword_at_First_Light/3-Scene_4.md" />
+      <scene file="outline/01-The_Sword_at_First_Light/4-Scene_5.md" />
+    </scenes>
+  </plot>
+</plots>

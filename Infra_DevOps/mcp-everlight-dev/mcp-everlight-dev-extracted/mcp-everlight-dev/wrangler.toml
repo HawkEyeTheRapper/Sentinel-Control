@@ -1,0 +1,31 @@
+# wrangler.toml - place at repository root
+name = "everlight-ai"
+account_id = "74b94b7ffc15701b77e53f81bea03813"
+compatibility_date = "2025-12-10"
+workers_dev = false
+type = "javascript"
+
+[build]
+command = "npm ci && node scripts/build-logs.js"
+
+[site]
+bucket = "./dist"
+include = ["**/*"]
+
+# Optional: deploy to a specific route / zone
+ route = "mcp.everlightos.com/*"
+# zone_id = "REPLACE_WITH_ZONE_ID"
+[observability]
+enabled = false
+head_sampling_rate = 1
+
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+persist = true
+invocation_logs = true
+
+[observability.traces]
+enabled = false
+persist = true
+head_sampling_rate = 1

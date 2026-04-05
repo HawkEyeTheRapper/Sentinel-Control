@@ -1,0 +1,21 @@
+{
+  "series_id": "03_Nightfall",
+  "series_title": "Nightfall",
+  "book_id": "03_The_Drifter",
+  "book_title": "The Drifter",
+  "sequence": 3,
+  "tags": [
+    "wandering",
+    "intel gathering",
+    "grey morality",
+    "between worlds",
+    "choosing a side"
+  ],
+  "primary_characters": [
+    "Brian_McCord"
+  ],
+  "links": {
+    "valor": null,
+    "unveiling": "02_The_Unveiling/13_The_Last_Sunspeaker"
+  }
+}

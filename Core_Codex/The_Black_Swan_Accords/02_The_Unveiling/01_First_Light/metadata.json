@@ -1,0 +1,24 @@
+{
+  "series_id": "02_The_Unveiling",
+  "series_title": "The Unveiling",
+  "book_id": "01_First_Light",
+  "book_title": "First Light",
+  "sequence": 1,
+  "tags": [
+    "Kalina arc",
+    "Warlord seed",
+    "dragon omen",
+    "SunSpeaker prophecy",
+    "Zahara’s dream",
+    "origin of the lattice"
+  ],
+  "primary_characters": [
+    "Kalina",
+    "Halana",
+    "Zahara Marshall"
+  ],
+  "links": {
+    "valor": "01_VALOR/01_When_First_They_Came",
+    "nightfall": "03_Nightfall/01_The_Beginning"
+  }
+}

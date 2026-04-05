@@ -1,0 +1,111 @@
+.
+├── Aether_Indexer.ipynb
+├── Joplin_Novel_Dashboard_Template2
+│   ├── OmniversalAether_com_Starter.zip
+│   ├── Omniversal_Aether_Notebooks
+│   │   ├── 2q-dev-chat-2025-11-11.md
+│   │   ├── Backup_and_Storage.ipynb
+│   │   ├── Domain_Drupal.ipynb
+│   │   ├── Domain_Laravel.ipynb
+│   │   ├── Domain_WordPress.ipynb
+│   │   ├── Gemini_SWAN-accords.md
+│   │   ├── Gemini_SWAN-accords.pdf
+│   │   ├── Master_Server_Config.ipynb
+│   │   ├── The Black Swan Accords.pdf
+│   │   ├── When First They Came - Comprehensive Outline.docx
+│   │   ├── file_00000000a234623093f4a77b55d41a9f-362dd41d-e843-41ba-8c13-c217abdff5ae.png
+│   │   ├── q-dev-chat-2025-11-11.md
+│   │   └── q-dev-chat-2025-11-12.md
+│   ├── _The Unveiling - Book I_ First Light
+│   │   ├── 🌍 Worldbuilding
+│   │   │   ├── GreatBlue Dragons.md
+│   │   │   └── The Five Spheres.md
+│   │   ├── 👤 Characters
+│   │   │   ├── Halana.md
+│   │   │   └── Zahara Marshall.md
+│   │   ├── 📅 Writing Log
+│   │   │   └── April 2025.md
+│   │   ├── 📜 Chapters
+│   │   │   └── Chapter 1 - Zahara's Awakening.md
+│   │   ├── 🧩 Plot & Arcs
+│   │   │   └── Overall Arc.md
+│   │   └── 🧭 Dashboard
+│   │       └── Dashboard.md
+│   └── archivist-wpcom-1.0.0.zip
+├── MANUSKRIPT
+├── Omniversal Aether_ Magnetic Map.png
+├── README.md
+├── The_Black_Swan_Accords
+│   ├── Black_Swan_Accords_Notebook.ipynb
+│   ├── Master_Dashboard.md
+│   ├── Nightfall_Series
+│   │   ├── characters
+│   │   │   ├── Brian_McCord.txt
+│   │   │   ├── Fenningway.txt
+│   │   │   └── Harker.txt
+│   │   └── outline
+│   │       └── 01-The_Beginning
+│   │           ├── 0-Scene_1.md
+│   │           └── folder.txt
+│   ├── The_Unveiling_Series
+│   │   ├── 🌍 Worldbuilding
+│   │   │   ├── GreatBlue Dragons.md
+│   │   │   └── The Five Spheres.md
+│   │   ├── 👤 Characters
+│   │   │   ├── Halana.md
+│   │   │   └── Zahara Marshall.md
+│   │   ├── 📅 Writing Log
+│   │   │   └── April 2025.md
+│   │   ├── 📜 Chapters
+│   │   │   └── Chapter 1 - Zahara's Awakening.md
+│   │   ├── 🧩 Plot & Arcs
+│   │   │   └── Overall Arc.md
+│   │   └── 🧭 Dashboard
+│   │       └── Dashboard.md
+│   └── VALOR_Chronicles
+│       ├── characters
+│       │   ├── Brian_McCord.txt
+│       │   ├── Diana_Swan.txt
+│       │   ├── Gareth.txt
+│       │   ├── Kalina.txt
+│       │   ├── Nastaku.txt
+│       │   ├── Preori.txt
+│       │   └── Selene.txt
+│       └── outline
+│           └── 01-The_Sword_at_First_Light
+│               ├── 0-Scene_1.md
+│               ├── 1-Scene_2.md
+│               ├── 2-Scene_3.md
+│               ├── 3-Scene_4.md
+│               ├── 4-Scene_5.md
+│               └── folder.txt
+├── aether_links.json
+├── aether_manifest.yaml
+├── blackswan.txt
+├── characters
+│   ├── Brian_McCord.txt
+│   ├── Diana_Swan.txt
+│   ├── Gareth.txt
+│   ├── Kalina.txt
+│   ├── Nastaku.txt
+│   ├── Preori.txt
+│   └── Selene.txt
+├── everlight_valor_project.zip
+├── infos.txt
+├── labels.txt
+├── outline
+│   └── 01-The_Sword_at_First_Light
+│       ├── 0-Scene_1.md
+│       ├── 1-Scene_2.md
+│       ├── 2-Scene_3.md
+│       ├── 3-Scene_4.md
+│       ├── 4-Scene_5.md
+│       └── folder.txt
+├── plots.xml
+├── settings.txt
+├── status.txt
+├── summary.txt
+├── test_from_diana.txt
+└── world.opml
+
+29 directories, 80 files

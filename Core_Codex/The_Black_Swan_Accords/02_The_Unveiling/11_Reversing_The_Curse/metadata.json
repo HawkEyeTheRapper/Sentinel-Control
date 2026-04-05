@@ -1,0 +1,22 @@
+{
+  "series_id": "02_The_Unveiling",
+  "series_title": "The Unveiling",
+  "book_id": "11_Reversing_The_Curse",
+  "book_title": "Reversing The Curse",
+  "sequence": 11,
+  "tags": [
+    "Avendar arc",
+    "Physician archetype",
+    "curse mechanics",
+    "undoing the wound",
+    "rewriting outcomes"
+  ],
+  "primary_characters": [
+    "Avendar",
+    "Halana"
+  ],
+  "links": {
+    "valor": null,
+    "nightfall": null
+  }
+}

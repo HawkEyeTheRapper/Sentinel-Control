@@ -1,0 +1,22 @@
+{
+  "series_id": "02_The_Unveiling",
+  "series_title": "The Unveiling",
+  "book_id": "02_Forgotten_Knowledge",
+  "book_title": "Forgotten Knowledge",
+  "sequence": 2,
+  "tags": [
+    "Tamil arc",
+    "Teacher archetype seed",
+    "hidden libraries",
+    "forbidden records",
+    "remembering what was erased"
+  ],
+  "primary_characters": [
+    "Tamil",
+    "Halana"
+  ],
+  "links": {
+    "valor": "01_VALOR/02_What_It_Cost",
+    "nightfall": null
+  }
+}

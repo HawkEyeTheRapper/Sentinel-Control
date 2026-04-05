@@ -1,0 +1,8 @@
+Title:          First Light
+Subtitle:       The Warlord
+Serie:          The Unveiling
+Volume:         1
+Genre:          High Fantasy
+License:        All Rights Reserved
+Author:         Ethan Womack
+Email:          books.are@live.com

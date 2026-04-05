@@ -1,0 +1,23 @@
+{
+  "series_id": "01_VALOR",
+  "series_title": "VALOR",
+  "book_id": "02_What_It_Cost",
+  "book_title": "What It Cost",
+  "sequence": 2,
+  "tags": [
+    "grief",
+    "aftermath",
+    "the Valkyr’s stand",
+    "sacrifice",
+    "legend of the Last Sentinel",
+    "price of resistance"
+  ],
+  "primary_characters": [
+    "Selene",
+    "Gareth"
+  ],
+  "links": {
+    "unveiling": "02_The_Unveiling/02_Forgotten_Knowledge",
+    "nightfall": null
+  }
+}

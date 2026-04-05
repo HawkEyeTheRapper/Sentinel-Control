@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World Building</title>
+  </head>
+  <body>
+    <outline text="The Eternal Game">
+      <outline text="Starwalkers / Preori">
+        <outline text="Ancient watchers who created the Black Swan Accords."/>
+      </outline>
+      <outline text="Nastaku">
+        <outline text="Shadow demons imprisoned within the Box; feed on souls and fear."/>
+      </outline>
+      <outline text="Valkyr Council">
+        <outline text="Order of warrior women; includes Selene; maintain the Seal."/>
+      </outline>
+      <outline text="The Box (Seal)">
+        <outline text="Artifact/prison containing the dark; cracks appear after 33k cycles."/>
+      </outline>
+    </outline>
+  </body>
+</opml>

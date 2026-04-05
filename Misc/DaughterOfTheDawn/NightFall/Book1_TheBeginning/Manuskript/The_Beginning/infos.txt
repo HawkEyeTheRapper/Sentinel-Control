@@ -1,0 +1,6 @@
+Title:          The Beginning
+Serie:          The NightFall Series
+Volume:         Book One
+Genre:          Fantasy
+Author:         Ethan Womack
+Email:          admin@omniversalmedia.cc

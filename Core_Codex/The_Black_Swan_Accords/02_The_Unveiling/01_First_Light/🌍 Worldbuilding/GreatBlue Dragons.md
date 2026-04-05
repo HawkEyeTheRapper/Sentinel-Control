@@ -1,0 +1,3 @@
+# GreatBlue Dragons
+
+Lore and notes...

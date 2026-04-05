@@ -1,0 +1,22 @@
+{
+  "series_id": "01_VALOR",
+  "series_title": "VALOR",
+  "book_id": "03_How_We_Changed",
+  "book_title": "How We Changed",
+  "sequence": 3,
+  "tags": [
+    "transformation",
+    "myth-making",
+    "legacy of Selene",
+    "sentinel path",
+    "waiting for Those Who Return",
+    "world reshaped by absence"
+  ],
+  "primary_characters": [
+    "Selene"
+  ],
+  "links": {
+    "unveiling": "02_The_Unveiling/04_A_Time_For_Healing",
+    "nightfall": "03_Nightfall/01_The_Beginning"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "series_id": "03_Nightfall",
+  "series_title": "Nightfall",
+  "book_id": "05_The_Woman",
+  "book_title": "The Woman",
+  "sequence": 5,
+  "tags": [
+    "identity",
+    "shadow confrontation",
+    "self-revelation",
+    "the fracture",
+    "becoming"
+  ],
+  "primary_characters": [
+    "Alexia"
+  ],
+  "links": {
+    "valor": "01_VALOR/02_What_It_Cost",
+    "unveiling": "02_The_Unveiling/06_If_Any_Hath_An_Ear"
+  }
+}

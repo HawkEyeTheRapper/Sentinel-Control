@@ -137,3 +137,41 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Local Codex backups
+.codex-backups/
+.codex/
+.codex
+
+# Local environments and generated tool state
+**/.venv/
+**/.wrangler/
+**/__pycache__/
+
+# Dependency directories
+**/node_modules/
+
+# Generated documentation artifacts
+**/build/doctrees/
+**/*.doctree
+**/*.pickle
+
+# Large generated exports and archives
+**/latestGPTexport2026/
+**/latest-gpt-export-2026.zip
+**/EverLightOS-main.zip
+**/OpenAI_Exports/chat.html
+**/OpenAI_Exports/conversations.json
+Misc/lyrics-arsenal.zip
+
+# Sensitive configuration and vault material
+Infra_DevOps/omnienv.sh
+**/.secrets.baseline
+**/*.key
+**/MemoryVault/
+**/everlight_context/
+**/everlight-context/
+**/conversation_hub_records.csv
+**/conversation_hub_records.json
+**/sentinel_seed.sql
+**/data_records.json

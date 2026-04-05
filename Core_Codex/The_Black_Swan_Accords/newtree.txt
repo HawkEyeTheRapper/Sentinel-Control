@@ -1,0 +1,100 @@
+.
+├── 00_Root_Notebook
+│   ├── Black_Swan_Accords_Notebook.ipynb
+│   ├── Gemini_SWAN-accords.md
+│   ├── Gemini_SWAN-accords.pdf
+│   ├── Master_Dashboard.md
+│   ├── The Black Swan Accords.pdf
+│   └── When First They Came - Comprehensive Outline.docx
+├── 01_VALOR
+│   ├── 00_Series_Master
+│   │   ├── characters
+│   │   │   ├── Brian_McCord.txt
+│   │   │   ├── Diana_Swan.txt
+│   │   │   ├── Gareth.txt
+│   │   │   ├── Kalina.txt
+│   │   │   ├── Nastaku.txt
+│   │   │   ├── Preori.txt
+│   │   │   └── Selene.txt
+│   │   └── outline
+│   │       └── 01-The_Sword_at_First_Light
+│   │           ├── 0-Scene_1.md
+│   │           ├── 1-Scene_2.md
+│   │           ├── 2-Scene_3.md
+│   │           ├── 3-Scene_4.md
+│   │           ├── 4-Scene_5.md
+│   │           └── folder.txt
+│   └── 01_When_First_They_Came
+│       ├── 🌍 Worldbuilding
+│       │   ├── GreatBlue Dragons.md
+│       │   └── The Five Spheres.md
+│       ├── 👤 Characters
+│       │   ├── Halana.md
+│       │   └── Zahara Marshall.md
+│       ├── 📅 Writing Log
+│       │   └── April 2025.md
+│       ├── 📜 Chapters
+│       │   └── Chapter 1 - Zahara's Awakening.md
+│       ├── 🧩 Plot & Arcs
+│       │   └── Overall Arc.md
+│       └── 🧭 Dashboard
+│           └── Dashboard.md
+├── 02_The_Unveiling
+│   ├── 00_Series_Master
+│   ├── 01_First_Light
+│   │   ├── 🌍 Worldbuilding
+│   │   │   ├── GreatBlue Dragons.md
+│   │   │   └── The Five Spheres.md
+│   │   ├── 👤 Characters
+│   │   │   ├── Halana.md
+│   │   │   └── Zahara Marshall.md
+│   │   ├── 📅 Writing Log
+│   │   │   └── April 2025.md
+│   │   ├── 📜 Chapters
+│   │   │   └── Chapter 1 - Zahara's Awakening.md
+│   │   ├── 🧩 Plot & Arcs
+│   │   │   └── Overall Arc.md
+│   │   └── 🧭 Dashboard
+│   │       └── Dashboard.md
+│   ├── 🌍 Worldbuilding
+│   │   ├── GreatBlue Dragons.md
+│   │   └── The Five Spheres.md
+│   ├── 📅 Writing Log
+│   │   └── April 2025.md
+│   ├── 📜 Chapters
+│   │   └── Chapter 1 - Zahara's Awakening.md
+│   ├── 🧩 Plot 
+│   │   ├── Halana.md
+│   │   └── Zahara Marshall.md
+│   ├── 🧩 Plot & Arcs
+│   │   └── Overall Arc.md
+│   └── 🧭 Dashboard
+│       └── Dashboard.md
+├── 03_Nightfall
+│   ├── 00_Series_Master
+│   │   ├── characters
+│   │   │   ├── Brian_McCord.txt
+│   │   │   ├── Fenningway.txt
+│   │   │   └── Harker.txt
+│   │   └── outline
+│   │       └── 01-The_Beginning
+│   │           ├── 0-Scene_1.md
+│   │           └── folder.txt
+│   └── 01_The_Beginning
+│       ├── 🌍 Worldbuilding
+│       │   ├── GreatBlue Dragons.md
+│       │   └── The Five Spheres.md
+│       ├── 👤 Characters
+│       │   ├── Halana.md
+│       │   └── Zahara Marshall.md
+│       ├── 📅 Writing Log
+│       │   └── April 2025.md
+│       ├── 📜 Chapters
+│       │   └── Chapter 1 - Zahara's Awakening.md
+│       ├── 🧩 Plot & Arcs
+│       │   └── Overall Arc.md
+│       └── 🧭 Dashboard
+│           └── Dashboard.md
+└── newtree.txt
+
+41 directories, 57 files

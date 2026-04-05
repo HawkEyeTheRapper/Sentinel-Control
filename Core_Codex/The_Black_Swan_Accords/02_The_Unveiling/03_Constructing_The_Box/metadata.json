@@ -1,0 +1,22 @@
+{
+  "series_id": "02_The_Unveiling",
+  "series_title": "The Unveiling",
+  "book_id": "03_Constructing_The_Box",
+  "book_title": "Constructing The Box",
+  "sequence": 3,
+  "tags": [
+    "Lathan arc",
+    "Builder archetype seed",
+    "containment vs freedom",
+    "designing the Box",
+    "engineering constraints"
+  ],
+  "primary_characters": [
+    "Lathan",
+    "Halana"
+  ],
+  "links": {
+    "valor": "01_VALOR/02_What_It_Cost",
+    "nightfall": null
+  }
+}

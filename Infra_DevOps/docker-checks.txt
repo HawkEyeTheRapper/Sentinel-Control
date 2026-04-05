@@ -1,0 +1,265 @@
+lene@omniversal-core:/mnt/aether_vault/omni-stack$ docker logs --tail=200 mailserver
+2025-12-11T15:29:22.723039-05:00 mail amavis[325]: No ext program for   .doc, tried: ripole
+2025-12-11T15:29:22.723355-05:00 mail amavis[325]: No ext program for   .zst, tried: unzstd
+2025-12-11T15:29:22.723372-05:00 mail amavis[325]: No decoder for       .F   
+2025-12-11T15:29:22.723380-05:00 mail amavis[325]: No decoder for       .doc 
+2025-12-11T15:29:22.723386-05:00 mail amavis[325]: No decoder for       .zoo 
+2025-12-11T15:29:22.723391-05:00 mail amavis[325]: No decoder for       .zst 
+2025-12-11 15:32:04-05:00 INFO  start-mailserver.sh: Welcome to docker-mailserver v15.1.0
+2025-12-11 15:32:04-05:00 INFO  start-mailserver.sh: Checking configuration
+2025-12-11 15:32:04-05:00 INFO  start-mailserver.sh: Container was restarted. Skipping most setup routines.
+2025-12-11 15:32:04-05:00 INFO  start-mailserver.sh: Starting daemons
+2025-12-11 15:32:06-05:00 INFO  start-mailserver.sh: mail.omniversalaether.online is up and running
+2025-12-11T15:32:05.195363-05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap, lmtp, sieve
+2025-12-11T15:32:05.632468-05:00 mail opendkim[211]: OpenDKIM Filter v2.11.0 starting (args: -f)
+2025-12-11T15:32:05.838477-05:00 mail opendmarc[220]: OpenDMARC Filter v1.4.2 starting (args: -f -p inet:8893@localhost -P /var/run/opendmarc/opendmarc.pid)
+2025-12-11T15:32:05.838489-05:00 mail opendmarc[220]: additional trusted authentication services: mail.omniversalaether.online
+2025-12-11T15:32:06.302334-05:00 mail postfix/postfix-script[309]: starting the Postfix mail system
+2025-12-11T15:32:06.310401-05:00 mail postfix/master[310]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-12-11T15:32:07.149281-05:00 mail amavis[326]: starting. /usr/sbin/amavisd at mail.omniversalaether.online amavis-2.13.0 (20230106), Unicode aware, LC_CTYPE="C.UTF-8"
+2025-12-11T15:32:07.149306-05:00 mail amavis[326]: perl=5.036000, user=, EUID: 999 (999);  group=(), EGID: 999 999 (999 999)
+2025-12-11T15:32:07.421195-05:00 mail amavis[326]: Net::Server: Group Not Defined.  Defaulting to EGID '999 999'
+2025-12-11T15:32:07.421223-05:00 mail amavis[326]: Net::Server: User Not Defined.  Defaulting to EUID '999'
+2025-12-11T15:32:07.429246-05:00 mail amavis[326]: No ext program for   .zoo, tried: zoo
+2025-12-11T15:32:07.429317-05:00 mail amavis[326]: No ext program for   .doc, tried: ripole
+2025-12-11T15:32:07.429769-05:00 mail amavis[326]: No ext program for   .zst, tried: unzstd
+2025-12-11T15:32:07.429792-05:00 mail amavis[326]: No decoder for       .F   
+2025-12-11T15:32:07.429801-05:00 mail amavis[326]: No decoder for       .doc 
+2025-12-11T15:32:07.429809-05:00 mail amavis[326]: No decoder for       .zoo 
+2025-12-11T15:32:07.429814-05:00 mail amavis[326]: No decoder for       .zst 
+2025-12-11 15:52:45,706 WARN received SIGTERM indicating exit request
+2025-12-11 15:52:46,708 WARN stopped: update-check (terminated by SIGTERM)
+2025-12-11 15:53:01-05:00 INFO  start-mailserver.sh: Welcome to docker-mailserver v15.1.0
+2025-12-11 15:53:01-05:00 INFO  start-mailserver.sh: Checking configuration
+2025-12-11 15:53:01-05:00 INFO  start-mailserver.sh: Container was restarted. Skipping most setup routines.
+2025-12-11 15:53:01-05:00 INFO  start-mailserver.sh: Starting daemons
+2025-12-11 15:53:03-05:00 INFO  start-mailserver.sh: mail.omniversalaether.online is up and running
+2025-12-11T15:53:02.551390-05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap, lmtp, sieve
+2025-12-11T15:53:02.933000-05:00 mail opendkim[212]: OpenDKIM Filter v2.11.0 starting (args: -f)
+2025-12-11T15:53:03.079505-05:00 mail opendmarc[221]: OpenDMARC Filter v1.4.2 starting (args: -f -p inet:8893@localhost -P /var/run/opendmarc/opendmarc.pid)
+2025-12-11T15:53:03.079512-05:00 mail opendmarc[221]: additional trusted authentication services: mail.omniversalaether.online
+2025-12-11T15:53:03.457775-05:00 mail postfix/postfix-script[310]: starting the Postfix mail system
+2025-12-11T15:53:03.462151-05:00 mail postfix/master[311]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-12-11T15:53:04.255464-05:00 mail amavis[327]: starting. /usr/sbin/amavisd at mail.omniversalaether.online amavis-2.13.0 (20230106), Unicode aware, LC_CTYPE="C.UTF-8"
+2025-12-11T15:53:04.255488-05:00 mail amavis[327]: perl=5.036000, user=, EUID: 999 (999);  group=(), EGID: 999 999 (999 999)
+2025-12-11T15:53:04.552843-05:00 mail amavis[327]: Net::Server: Group Not Defined.  Defaulting to EGID '999 999'
+2025-12-11T15:53:04.552888-05:00 mail amavis[327]: Net::Server: User Not Defined.  Defaulting to EUID '999'
+2025-12-11T15:53:04.565074-05:00 mail amavis[327]: No ext program for   .zoo, tried: zoo
+2025-12-11T15:53:04.565289-05:00 mail amavis[327]: No ext program for   .doc, tried: ripole
+2025-12-11T15:53:04.566344-05:00 mail amavis[327]: No ext program for   .zst, tried: unzstd
+2025-12-11T15:53:04.566376-05:00 mail amavis[327]: No decoder for       .F   
+2025-12-11T15:53:04.566406-05:00 mail amavis[327]: No decoder for       .doc 
+2025-12-11T15:53:04.566417-05:00 mail amavis[327]: No decoder for       .zoo 
+2025-12-11T15:53:04.566444-05:00 mail amavis[327]: No decoder for       .zst 
+2025-12-11 16:41:47,626 WARN received SIGTERM indicating exit request
+2025-12-11 16:41:48,628 WARN stopped: update-check (terminated by SIGTERM)
+2025-12-11 16:42:03-05:00 INFO  start-mailserver.sh: Welcome to docker-mailserver v15.1.0
+2025-12-11 16:42:03-05:00 INFO  start-mailserver.sh: Checking configuration
+2025-12-11 16:42:03-05:00 INFO  start-mailserver.sh: Container was restarted. Skipping most setup routines.
+2025-12-11 16:42:03-05:00 INFO  start-mailserver.sh: Starting daemons
+2025-12-11 16:42:05-05:00 INFO  start-mailserver.sh: mail.omniversalaether.online is up and running
+2025-12-11T16:42:04.505690-05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap, lmtp, sieve
+2025-12-11T16:42:04.905111-05:00 mail opendkim[211]: OpenDKIM Filter v2.11.0 starting (args: -f)
+2025-12-11T16:42:05.076912-05:00 mail opendmarc[220]: OpenDMARC Filter v1.4.2 starting (args: -f -p inet:8893@localhost -P /var/run/opendmarc/opendmarc.pid)
+2025-12-11T16:42:05.076918-05:00 mail opendmarc[220]: additional trusted authentication services: mail.omniversalaether.online
+2025-12-11T16:42:05.552518-05:00 mail postfix/postfix-script[306]: starting the Postfix mail system
+2025-12-11T16:42:05.558791-05:00 mail postfix/master[307]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-12-11T16:42:06.575086-05:00 mail amavis[326]: starting. /usr/sbin/amavisd at mail.omniversalaether.online amavis-2.13.0 (20230106), Unicode aware, LC_CTYPE="C.UTF-8"
+2025-12-11T16:42:06.575117-05:00 mail amavis[326]: perl=5.036000, user=, EUID: 999 (999);  group=(), EGID: 999 999 (999 999)
+2025-12-11T16:42:06.789181-05:00 mail amavis[326]: Net::Server: Group Not Defined.  Defaulting to EGID '999 999'
+2025-12-11T16:42:06.789212-05:00 mail amavis[326]: Net::Server: User Not Defined.  Defaulting to EUID '999'
+2025-12-11T16:42:06.796370-05:00 mail amavis[326]: No ext program for   .zoo, tried: zoo
+2025-12-11T16:42:06.796451-05:00 mail amavis[326]: No ext program for   .doc, tried: ripole
+2025-12-11T16:42:06.796799-05:00 mail amavis[326]: No ext program for   .zst, tried: unzstd
+2025-12-11T16:42:06.796833-05:00 mail amavis[326]: No decoder for       .F   
+2025-12-11T16:42:06.796854-05:00 mail amavis[326]: No decoder for       .doc 
+2025-12-11T16:42:06.796865-05:00 mail amavis[326]: No decoder for       .zoo 
+2025-12-11T16:42:06.796875-05:00 mail amavis[326]: No decoder for       .zst 
+2025-12-12T06:57:26.052770-05:00 mail postfix/pickup[72456]: 0CCCB5F49660: uid=0 from=<root>
+2025-12-12T06:57:26.056784-05:00 mail postfix/cleanup[77470]: 0CCCB5F49660: message-id=<20251212115726.0CCCB5F49660@mail.omniversalaether.online>
+2025-12-12T06:57:26.057237-05:00 mail opendkim[211]: 0CCCB5F49660: no signing table match for 'root@mail.omniversalaether.online'
+2025-12-12T06:57:26.058221-05:00 mail opendkim[211]: 0CCCB5F49660: no signature data
+2025-12-12T06:57:26.063286-05:00 mail postfix/qmgr[311]: 0CCCB5F49660: from=<root@mail.omniversalaether.online>, size=973, nrcpt=1 (queue active)
+2025-12-12T06:57:26.067029-05:00 mail postfix/cleanup[77470]: 105385F495DA: message-id=<20251212115726.0CCCB5F49660@mail.omniversalaether.online>
+2025-12-12T06:57:26.071931-05:00 mail postfix/local[77472]: 0CCCB5F49660: to=<root@mail.omniversalaether.online>, orig_to=<root>, relay=local, delay=0.03, delays=0.02/0/0/0.01, dsn=2.0.0, status=sent (forwarded as 105385F495DA)
+2025-12-12T06:57:26.071984-05:00 mail postfix/qmgr[311]: 105385F495DA: from=<root@mail.omniversalaether.online>, size=1132, nrcpt=1 (queue active)
+2025-12-12T06:57:26.072101-05:00 mail postfix/qmgr[311]: 0CCCB5F49660: removed
+2025-12-12T06:57:26.087603-05:00 mail dovecot: lmtp(77474): Connect from local
+2025-12-12T06:57:26.092739-05:00 mail dovecot: auth: passwd-file(postmaster@omniversalaether.online): unknown user 
+2025-12-12T06:57:26.100887-05:00 mail postfix/lmtp[77473]: 105385F495DA: to=<postmaster@omniversalaether.online>, orig_to=<root>, relay=mail.omniversalaether.online[/var/run/dovecot/lmtp], delay=0.03, delays=0.01/0/0.01/0.01, dsn=5.1.1, status=bounced (host mail.omniversalaether.online[/var/run/dovecot/lmtp] said: 550 5.1.1 <postmaster@omniversalaether.online> User doesn't exist: postmaster@omniversalaether.online (in reply to RCPT TO command))
+2025-12-12T06:57:26.101045-05:00 mail dovecot: lmtp(77474): Disconnect from local: Logged out (state=READY)
+2025-12-12T06:57:26.101447-05:00 mail postfix/cleanup[77470]: 18B515F49661: message-id=<20251212115726.18B515F49661@mail.omniversalaether.online>
+2025-12-12T06:57:26.106394-05:00 mail postfix/bounce[77476]: 105385F495DA: sender non-delivery notification: 18B515F49661
+2025-12-12T06:57:26.106436-05:00 mail postfix/qmgr[311]: 18B515F49661: from=<>, size=3558, nrcpt=1 (queue active)
+2025-12-12T06:57:26.106536-05:00 mail postfix/qmgr[311]: 105385F495DA: removed
+2025-12-12T06:57:26.106884-05:00 mail postfix/cleanup[77470]: 1A0C85F495DA: message-id=<20251212115726.18B515F49661@mail.omniversalaether.online>
+2025-12-12T06:57:26.111795-05:00 mail postfix/local[77472]: 18B515F49661: to=<root@mail.omniversalaether.online>, relay=local, delay=0.01, delays=0.01/0/0/0.01, dsn=2.0.0, status=sent (forwarded as 1A0C85F495DA)
+2025-12-12T06:57:26.111817-05:00 mail postfix/qmgr[311]: 1A0C85F495DA: from=<>, size=3717, nrcpt=1 (queue active)
+2025-12-12T06:57:26.111920-05:00 mail postfix/qmgr[311]: 18B515F49661: removed
+2025-12-12T06:57:26.112159-05:00 mail dovecot: lmtp(77474): Connect from local
+2025-12-12T06:57:26.112311-05:00 mail dovecot: auth: passwd-file(postmaster@omniversalaether.online): unknown user 
+2025-12-12T06:57:26.117284-05:00 mail postfix/lmtp[77473]: 1A0C85F495DA: to=<postmaster@omniversalaether.online>, orig_to=<root@mail.omniversalaether.online>, relay=mail.omniversalaether.online[/var/run/dovecot/lmtp], delay=0.01, delays=0.01/0/0/0.01, dsn=5.1.1, status=bounced (host mail.omniversalaether.online[/var/run/dovecot/lmtp] said: 550 5.1.1 <postmaster@omniversalaether.online> User doesn't exist: postmaster@omniversalaether.online (in reply to RCPT TO command))
+2025-12-12T06:57:26.117466-05:00 mail dovecot: lmtp(77474): Disconnect from local: Logged out (state=READY)
+2025-12-12T06:57:26.117602-05:00 mail postfix/qmgr[311]: 1A0C85F495DA: removed
+2025-12-12 10:36:52-05:00 INFO  start-mailserver.sh: Welcome to docker-mailserver v15.1.0
+2025-12-12 10:36:52-05:00 INFO  start-mailserver.sh: Checking configuration
+2025-12-12 10:36:52-05:00 INFO  start-mailserver.sh: Container was restarted. Skipping most setup routines.
+2025-12-12 10:36:52-05:00 INFO  start-mailserver.sh: Starting daemons
+2025-12-12 10:36:54-05:00 INFO  start-mailserver.sh: mail.omniversalaether.online is up and running
+2025-12-12T10:36:53.150858-05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap, lmtp, sieve
+2025-12-12T10:36:53.578507-05:00 mail opendkim[206]: OpenDKIM Filter v2.11.0 starting (args: -f)
+2025-12-12T10:36:53.780417-05:00 mail opendmarc[215]: OpenDMARC Filter v1.4.2 starting (args: -f -p inet:8893@localhost -P /var/run/opendmarc/opendmarc.pid)
+2025-12-12T10:36:53.780430-05:00 mail opendmarc[215]: additional trusted authentication services: mail.omniversalaether.online
+2025-12-12T10:36:54.225264-05:00 mail postfix/postfix-script[310]: starting the Postfix mail system
+2025-12-12T10:36:54.231484-05:00 mail postfix/master[311]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-12-12T10:36:55.186018-05:00 mail amavis[327]: starting. /usr/sbin/amavisd at mail.omniversalaether.online amavis-2.13.0 (20230106), Unicode aware, LC_CTYPE="C.UTF-8"
+2025-12-12T10:36:55.186057-05:00 mail amavis[327]: perl=5.036000, user=, EUID: 999 (999);  group=(), EGID: 999 999 (999 999)
+2025-12-12T10:36:55.460827-05:00 mail amavis[327]: Net::Server: Group Not Defined.  Defaulting to EGID '999 999'
+2025-12-12T10:36:55.460859-05:00 mail amavis[327]: Net::Server: User Not Defined.  Defaulting to EUID '999'
+2025-12-12T10:36:55.473352-05:00 mail amavis[327]: No ext program for   .zoo, tried: zoo
+2025-12-12T10:36:55.473453-05:00 mail amavis[327]: No ext program for   .doc, tried: ripole
+2025-12-12T10:36:55.473883-05:00 mail amavis[327]: No ext program for   .zst, tried: unzstd
+2025-12-12T10:36:55.473902-05:00 mail amavis[327]: No decoder for       .F   
+2025-12-12T10:36:55.473910-05:00 mail amavis[327]: No decoder for       .doc 
+2025-12-12T10:36:55.473916-05:00 mail amavis[327]: No decoder for       .zoo 
+2025-12-12T10:36:55.473921-05:00 mail amavis[327]: No decoder for       .zst 
+2025-12-12T11:17:25.005950-05:00 mail dovecot: imap-login: Disconnected: Connection closed: read(size=1026) failed: Connection reset by peer (disconnected before auth was ready, waited 0 secs): user=<>, rip=192.168.4.78, lip=172.18.0.20, TLS handshaking: read(size=1026) failed: Connection reset by peer, session=<UIbQmMNFQJPAqARO>
+2025-12-12T11:17:25.017860-05:00 mail postfix/postscreen[1441]: cache btree:/var/lib/postfix/postscreen_cache full cleanup: retained=0 dropped=0 entries
+2025-12-12T11:17:25.018158-05:00 mail postfix/submission/smtpd[1438]: connect from unknown[unknown]
+2025-12-12T11:17:25.018890-05:00 mail postfix/postscreen[1441]: warning: getpeername: Transport endpoint is not connected -- dropping this connection
+2025-12-12T11:17:25.022781-05:00 mail postfix/submission/smtpd[1438]: lost connection after CONNECT from unknown[unknown]
+2025-12-12T11:17:25.022820-05:00 mail postfix/submission/smtpd[1438]: disconnect from unknown[unknown] commands=0/0
+2025-12-12T11:17:29.407736-05:00 mail postfix/submissions/smtpd[1450]: connect from unknown[unknown]
+2025-12-12T11:17:29.407932-05:00 mail postfix/submissions/smtpd[1450]: SSL_accept error from unknown[unknown]: Connection reset by peer
+2025-12-12T11:17:29.408038-05:00 mail postfix/submissions/smtpd[1450]: lost connection after CONNECT from unknown[unknown]
+2025-12-12T11:17:29.408042-05:00 mail postfix/submissions/smtpd[1450]: disconnect from unknown[unknown] commands=0/0
+2025-12-12T11:20:49.587904-05:00 mail postfix/anvil[1443]: statistics: max connection rate 1/60s for (submission:unknown) at Dec 12 11:17:25
+2025-12-12T11:20:49.587913-05:00 mail postfix/anvil[1443]: statistics: max connection count 1 for (submission:unknown) at Dec 12 11:17:25
+2025-12-12T11:20:49.587918-05:00 mail postfix/anvil[1443]: statistics: max cache size 1 at Dec 12 11:17:25
+2025-12-12T11:24:04.177124-05:00 mail postfix/postscreen[2043]: warning: getpeername: Transport endpoint is not connected -- dropping this connection
+2025-12-12T11:24:04.182906-05:00 mail dovecot: imap-login: Disconnected: Connection closed: read(size=1026) failed: Connection reset by peer (disconnected before auth was ready, waited 0 secs): user=<>, rip=192.168.4.75, lip=172.18.0.20, TLS handshaking: read(size=1026) failed: Connection reset by peer, session=<UHubsMNFxo7AqARL>
+2025-12-12T11:24:04.183470-05:00 mail postfix/submission/smtpd[2042]: connect from unknown[unknown]
+2025-12-12T11:24:04.186780-05:00 mail postfix/submission/smtpd[2042]: lost connection after CONNECT from unknown[unknown]
+2025-12-12T11:24:04.186828-05:00 mail postfix/submission/smtpd[2042]: disconnect from unknown[unknown] commands=0/0
+2025-12-12T11:24:08.092660-05:00 mail postfix/submissions/smtpd[2054]: connect from unknown[unknown]
+2025-12-12T11:24:08.092830-05:00 mail postfix/submissions/smtpd[2054]: SSL_accept error from unknown[unknown]: Connection reset by peer
+2025-12-12T11:24:08.092972-05:00 mail postfix/submissions/smtpd[2054]: lost connection after CONNECT from unknown[unknown]
+2025-12-12T11:24:08.092976-05:00 mail postfix/submissions/smtpd[2054]: disconnect from unknown[unknown] commands=0/0
+2025-12-12T11:27:28.270042-05:00 mail postfix/anvil[2047]: statistics: max connection rate 1/60s for (submission:unknown) at Dec 12 11:24:04
+2025-12-12T11:27:28.270051-05:00 mail postfix/anvil[2047]: statistics: max connection count 1 for (submission:unknown) at Dec 12 11:24:04
+2025-12-12T11:27:28.270057-05:00 mail postfix/anvil[2047]: statistics: max cache size 1 at Dec 12 11:24:04
+2025-12-12T11:31:27.157122-05:00 mail postfix/postscreen[2712]: warning: getpeername: Transport endpoint is not connected -- dropping this connection
+2025-12-12T11:31:27.161669-05:00 mail dovecot: imap-login: Disconnected: Connection closed: read(size=1026) failed: Connection reset by peer (disconnected before auth was ready, waited 0 secs): user=<>, rip=192.168.4.75, lip=172.18.0.20, TLS handshaking: read(size=1026) failed: Connection reset by peer, session=<Hc0Cy8NFvpXAqARL>
+2025-12-12T11:31:27.172747-05:00 mail postfix/submission/smtpd[2715]: connect from unknown[unknown]
+2025-12-12T11:31:27.175923-05:00 mail postfix/submission/smtpd[2715]: lost connection after CONNECT from unknown[unknown]
+2025-12-12T11:31:27.175963-05:00 mail postfix/submission/smtpd[2715]: disconnect from unknown[unknown] commands=0/0
+2025-12-12T11:31:29.677445-05:00 mail postfix/submissions/smtpd[2721]: connect from unknown[unknown]
+2025-12-12T11:31:29.677706-05:00 mail postfix/submissions/smtpd[2721]: SSL_accept error from unknown[unknown]: Connection reset by peer
+2025-12-12T11:31:29.677933-05:00 mail postfix/submissions/smtpd[2721]: lost connection after CONNECT from unknown[unknown]
+2025-12-12T11:31:29.677950-05:00 mail postfix/submissions/smtpd[2721]: disconnect from unknown[unknown] commands=0/0
+2025-12-12T11:34:49.870093-05:00 mail postfix/anvil[2717]: statistics: max connection rate 1/60s for (submission:unknown) at Dec 12 11:31:27
+2025-12-12T11:34:49.870101-05:00 mail postfix/anvil[2717]: statistics: max connection count 1 for (submission:unknown) at Dec 12 11:31:27
+2025-12-12T11:34:49.870107-05:00 mail postfix/anvil[2717]: statistics: max cache size 1 at Dec 12 11:31:27
+2025-12-12 11:41:37,292 WARN received SIGTERM indicating exit request
+2025-12-12 11:41:38,297 WARN stopped: update-check (terminated by SIGTERM)
+2025-12-12 10:41:50-06:00 INFO  start-mailserver.sh: Welcome to docker-mailserver v15.1.0
+2025-12-12 10:41:50-06:00 INFO  start-mailserver.sh: Checking configuration
+2025-12-12 10:41:50-06:00 INFO  start-mailserver.sh: Container was restarted. Skipping most setup routines.
+2025-12-12 10:41:50-06:00 INFO  start-mailserver.sh: Starting daemons
+2025-12-12 10:41:52-06:00 INFO  start-mailserver.sh: mail.omniversalaether.online is up and running
+2025-12-12T10:41:51.209302-06:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap, lmtp, sieve
+2025-12-12T10:41:51.627617-06:00 mail opendkim[207]: OpenDKIM Filter v2.11.0 starting (args: -f)
+2025-12-12T10:41:51.831891-06:00 mail opendmarc[216]: OpenDMARC Filter v1.4.2 starting (args: -f -p inet:8893@localhost -P /var/run/opendmarc/opendmarc.pid)
+2025-12-12T10:41:51.831942-06:00 mail opendmarc[216]: additional trusted authentication services: mail.omniversalaether.online
+2025-12-12T10:41:52.279511-06:00 mail postfix/postfix-script[307]: starting the Postfix mail system
+2025-12-12T10:41:52.286018-06:00 mail postfix/master[308]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-12-12T10:41:53.032948-06:00 mail amavis[328]: starting. /usr/sbin/amavisd at mail.omniversalaether.online amavis-2.13.0 (20230106), Unicode aware, LC_CTYPE="C.UTF-8"
+2025-12-12T10:41:53.032975-06:00 mail amavis[328]: perl=5.036000, user=, EUID: 999 (999);  group=(), EGID: 999 999 (999 999)
+2025-12-12T10:41:53.192649-06:00 mail amavis[328]: Net::Server: Group Not Defined.  Defaulting to EGID '999 999'
+2025-12-12T10:41:53.192672-06:00 mail amavis[328]: Net::Server: User Not Defined.  Defaulting to EUID '999'
+2025-12-12T10:41:53.199146-06:00 mail amavis[328]: No ext program for   .zoo, tried: zoo
+2025-12-12T10:41:53.199182-06:00 mail amavis[328]: No ext program for   .doc, tried: ripole
+2025-12-12T10:41:53.199413-06:00 mail amavis[328]: No ext program for   .zst, tried: unzstd
+2025-12-12T10:41:53.199437-06:00 mail amavis[328]: No decoder for       .F   
+2025-12-12T10:41:53.199450-06:00 mail amavis[328]: No decoder for       .doc 
+2025-12-12T10:41:53.199460-06:00 mail amavis[328]: No decoder for       .zoo 
+2025-12-12T10:41:53.199470-06:00 mail amavis[328]: No decoder for       .zst 
+2025-12-12T10:51:24.832574-06:00 mail postfix/postscreen[1242]: CONNECT from [192.168.4.70]:49784 to [172.18.0.20]:25
+2025-12-12T10:51:24.832665-06:00 mail postfix/postscreen[1242]: HANGUP after 0 from [192.168.4.70]:49784 in tests before SMTP handshake
+2025-12-12T10:51:24.832669-06:00 mail postfix/postscreen[1242]: DISCONNECT [192.168.4.70]:49784
+2025-12-12T10:52:56.841084-06:00 mail postfix/postscreen[1242]: warning: getpeername: Transport endpoint is not connected -- dropping this connection
+2025-12-12T10:52:56.844344-06:00 mail dovecot: imap-login: Disconnected: Connection closed: read(size=1026) failed: Connection reset by peer (disconnected before auth was ready, waited 0 secs): user=<>, rip=192.168.4.75, lip=172.18.0.20, TLS handshaking: read(size=1026) failed: Connection reset by peer, session=<C8zhF8RFhr7AqARL>
+2025-12-12T10:52:56.854598-06:00 mail postfix/submission/smtpd[1382]: connect from unknown[unknown]
+2025-12-12T10:52:56.858645-06:00 mail postfix/submission/smtpd[1382]: lost connection after CONNECT from unknown[unknown]
+2025-12-12T10:52:56.858685-06:00 mail postfix/submission/smtpd[1382]: disconnect from unknown[unknown] commands=0/0
+2025-12-12T10:53:00.460483-06:00 mail postfix/submissions/smtpd[1393]: connect from unknown[unknown]
+2025-12-12T10:53:00.460685-06:00 mail postfix/submissions/smtpd[1393]: SSL_accept error from unknown[unknown]: Connection reset by peer
+2025-12-12T10:53:00.460794-06:00 mail postfix/submissions/smtpd[1393]: lost connection after CONNECT from unknown[unknown]
+2025-12-12T10:53:00.460801-06:00 mail postfix/submissions/smtpd[1393]: disconnect from unknown[unknown] commands=0/0
+2025-12-12T10:56:20.594315-06:00 mail postfix/anvil[1386]: statistics: max connection rate 1/60s for (submission:unknown) at Dec 12 10:52:56
+2025-12-12T10:56:20.594324-06:00 mail postfix/anvil[1386]: statistics: max connection count 1 for (submission:unknown) at Dec 12 10:52:56
+2025-12-12T10:56:20.594330-06:00 mail postfix/anvil[1386]: statistics: max cache size 1 at Dec 12 10:52:56
+selene@omniversal-core:/mnt/aether_vault/omni-stack$ docker inspect wp-db | grep -A3 Mounts
+docker inspect nextcloud-db | grep -A3 Mounts
+docker inspect joplin-db | grep -A3 Mounts
+        "Mounts": [
+            {
+                "Type": "bind",
+                "Source": "/mnt/aether_vault/omni-stack/data/wp-db",
+        "Mounts": [
+            {
+                "Type": "bind",
+                "Source": "/mnt/aether_vault/omni-stack/data/nextcloud-db",
+        "Mounts": [
+            {
+                "Type": "bind",
+                "Source": "/mnt/aether_vault/omni-stack/data/joplin-db",
+selene@omniversal-core:/mnt/aether_vault/omni-stack$ docker ps --format "table {{.Names}}\t{{.Image}}\t{{.Ports}}" | grep -i traefik
+whoami           traefik/whoami                                         80/tcp
+selene@omniversal-core:/mnt/aether_vault/omni-stack$ docker ps --format "table {{.Names}}\t{{.Status}}"
+docker stats --no-stream
+NAMES            STATUS
+aethernet        Up 46 minutes
+talk-backend     Up 46 minutes (healthy)
+mailserver       Up 46 minutes
+wpnow            Up 46 minutes
+cloudflared      Up 46 minutes
+talk-recording   Up 46 minutes (healthy)
+wordpress        Up 46 minutes
+nextcloud        Up 46 minutes
+jupyterlab       Up 46 minutes (healthy)
+collabora        Up 46 minutes
+ollama-gateway   Up 46 minutes
+drupal           Up 46 minutes
+ghost            Up 46 minutes
+joplin           Up 46 minutes
+drupal-db        Up 46 minutes
+wp-db            Up 46 minutes
+joplin-db        Up 46 minutes
+ghost-db         Up 46 minutes
+nextcloud-db     Up 46 minutes
+redis            Up 46 minutes
+whoami           Up 46 minutes
+CONTAINER ID   NAME             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+6aa0713aa4b4   aethernet        0.00%     9.973MiB / 30.65GiB   0.03%     127kB / 126B      0B / 4.1kB        13
+8438bfbf2c0b   talk-backend     0.26%     105.6MiB / 30.65GiB   0.34%     126kB / 268B      1.52MB / 8.19kB   87
+22b84c366f5e   mailserver       0.05%     224.9MiB / 30.65GiB   0.72%     144kB / 4.58kB    0B / 6.14MB       46
+64002cc02749   wpnow            0.00%     174MiB / 30.65GiB     0.55%     136kB / 4.08kB    0B / 15.7MB       22
+fea166e45360   cloudflared      0.43%     16.84MiB / 30.65GiB   0.05%     1.12MB / 1.11MB   0B / 0B           16
+4d209b20e5f9   talk-recording   0.01%     36.28MiB / 30.65GiB   0.12%     126kB / 126B      0B / 0B           1
+a67e1937f3bc   wordpress        0.00%     15.4MiB / 30.65GiB    0.05%     126kB / 126B      0B / 4.1kB        6
+c4b3b0fb5f23   nextcloud        0.00%     21.61MiB / 30.65GiB   0.07%     126kB / 126B      0B / 4.1kB        6
+a865a8064825   jupyterlab       0.00%     119.3MiB / 30.65GiB   0.38%     126kB / 126B      0B / 32.8kB       15
+a89bfe811730   collabora        0.09%     521.1MiB / 30.65GiB   1.66%     132kB / 1.9kB     0B / 435MB        12
+53d7a0cddb05   ollama-gateway   0.00%     7.664MiB / 30.65GiB   0.02%     126kB / 126B      0B / 0B           7
+188e16b022fe   drupal           0.00%     12.55MiB / 30.65GiB   0.04%     126kB / 126B      0B / 4.1kB        6
+e86927ab8761   ghost            0.01%     110.6MiB / 30.65GiB   0.35%     194kB / 19.4kB    0B / 0B           11
+9468a749954e   joplin           0.24%     231.7MiB / 30.65GiB   0.74%     1.41MB / 1.35MB   0B / 3.07MB       46
+7b1cebc2edc6   drupal-db        0.00%     104.7MiB / 30.65GiB   0.33%     126kB / 126B      35.5MB / 8.19kB   8
+8d5bfb10c74e   wp-db            0.00%     87.02MiB / 30.65GiB   0.28%     126kB / 126B      30.2MB / 8.19kB   8
+22e4e86a2ac6   joplin-db        0.00%     52.9MiB / 30.65GiB    0.17%     1.47MB / 1.29MB   4.05MB / 27.5MB   8
+23b8bbc93e66   ghost-db         0.01%     89.94MiB / 30.65GiB   0.29%     142kB / 63.9kB    15.5MB / 106kB    10
+e4a18ca4cd14   nextcloud-db     0.00%     106.9MiB / 30.65GiB   0.34%     127kB / 126B      70.8MB / 8.19kB   8
+b8b2e693e73f   redis            0.28%     3.32MiB / 30.65GiB    0.01%     126kB / 126B      0B / 4.1kB        6
+f70c8b920d0d   whoami           0.00%     1.324MiB / 30.65GiB   0.00%     126kB / 126B      81.9kB / 0B       4
+

@@ -1,0 +1,22 @@
+{
+  "series_id": "03_Nightfall",
+  "series_title": "Nightfall",
+  "book_id": "07_A_Tree",
+  "book_title": "A Tree",
+  "sequence": 7,
+  "tags": [
+    "rooted fate",
+    "ancestral threads",
+    "timeline merging",
+    "karma",
+    "the old paths"
+  ],
+  "primary_characters": [
+    "Alexia",
+    "Kalina"
+  ],
+  "links": {
+    "valor": "01_VALOR/03_How_We_Changed",
+    "unveiling": "02_The_Unveiling/05_Sacred_Garden"
+  }
+}

@@ -1,0 +1,3 @@
+# Chapter 1 - Zahara's Awakening
+
+Scene draft here...
